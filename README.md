@@ -15,6 +15,7 @@ A aplicação foi criada utilizando Java, Spring boot e Docker. Todos os fontes 
 
 ## Endpoints
 A aplicação está instalada e disponpivel no AWS.
+Para o deploy foi utilizado os serviços ECS + EC2 + ECR.
 São 3 enpoints disponíveis:
 
 ```rest
